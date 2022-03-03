@@ -1,0 +1,15 @@
+{
+    "user": [
+        {
+            "name": "Marcus Johannessen",
+            "email": "marcus-j@online.no",
+            "password": "shittyPassword"
+        },
+        {
+            "name": "test",
+            "email": "test@email.no",
+            "password": "testPassword"
+
+        }
+    ]
+}
